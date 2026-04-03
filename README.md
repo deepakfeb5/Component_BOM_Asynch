@@ -23,7 +23,7 @@ python -m streamlit
 python -m streamlit run app.py
 
 ```
-
+ api.digikey.com/CustomerResource/v1/associatedaccounts
 ### Environment Variables (optional)
 - `MOUSER_CALLS_PER_MINUTE` — default 10
 - `MAX_RETRIES`, `BACKOFF_BASE`, `BACKOFF_CAP` — tune retry behavior
